@@ -1,4 +1,3 @@
 # warc-recovery
 
-## salvage-gzip-members
-Script to salvage gzip members from a corrupt warc.gz file
+Scripts to salvage/recover GZip and ZStd members from a corrupted warc.gz or warc.zst file.
