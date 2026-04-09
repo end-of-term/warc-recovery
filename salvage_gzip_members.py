@@ -8,7 +8,7 @@ This version is stricter than the earlier one:
 - Valid members are copied out byte-for-byte into the output file.
 
 Usage:
-    python salvage_gzip_strict.py input.gz output.gz
+    python salvage_gzip_members.py input.gz output.gz
 """
 
 from __future__ import annotations
